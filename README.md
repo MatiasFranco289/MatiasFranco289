@@ -4,7 +4,7 @@
 - 🔭 Estoy actualmente trabajando en [Mi portfolio web](https://github.com/MatiasFranco289/portfolio)
 <h3 align="left">Contactame</h3>
 
--Mail: **matias.franco289@gmail.com**
+Mail: **matias.franco289@gmail.com**
 <p align="left">
   <p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
 </p>
