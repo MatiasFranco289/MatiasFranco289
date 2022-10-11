@@ -7,8 +7,7 @@
 
 <h3 align="left">Contactame</h3>
 <p align="left">
-<a href='https://www.linkedin.com/in/matiasfranco289/'>Linkedin</a>
-  **matias.franco289@gmail.com**
+<p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
