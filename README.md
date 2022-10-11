@@ -3,11 +3,10 @@
 
 - 🔭 Estoy actualmente trabajando en [Portfolio web](https://github.com/MatiasFranco289/portfolio)
 
-- 📫 Contactame! **matias.franco289@gmail.com**
-
 <h3 align="left">Contactame</h3>
 <p align="left">
-<p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
+  <p>Mail: matias.franco289@gmail.com</p>
+  <p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
