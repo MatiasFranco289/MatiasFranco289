@@ -2,8 +2,9 @@
 <h3 align="left">Hola mi nombres es Matías y soy un desarrollador web fullstack. Soy una persona apasionada por su trabajo, disfruto de buscar y encontrar siempre la solución mas optima para cada problema. Me considero alguien curioso y autodidacta, encuentro muy interesantes las nuevas tecnologías y por eso trato de mantenerme siempre en movimiento y aprendiendo algo nuevo. En mis ratos libres me gusta emplear mis conocimientos para crear diversas aplicaciones que desafíen mis conocimientos y me ayuden a crecer.</h3>
 
 - 🔭 Estoy actualmente trabajando en [Mi portfolio web](https://github.com/MatiasFranco289/portfolio)
-- 📫 Contactame! **matias.franco289@gmail.com**
 <h3 align="left">Contactame</h3>
+
+- 📫 Contactame! **matias.franco289@gmail.com**
 <p align="left">
   <p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
 </p>
