@@ -5,7 +5,7 @@
 
 <h3 align="left">Contactame</h3>
 <p align="left">
-  <p>Mail: matias.franco289@gmail.com</p>
+  - 📫 Contactame! **matias.franco289@gmail.com**
   <p>Linkedin: https://www.linkedin.com/in/matiasfranco289</p>
 </p>
 
