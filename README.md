@@ -7,9 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-asd
-asd
-asd
+<a href='https://www.linkedin.com/in/matiasfranco289/'>Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
